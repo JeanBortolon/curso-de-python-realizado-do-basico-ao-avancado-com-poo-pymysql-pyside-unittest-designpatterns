@@ -310,9 +310,6 @@ A maior parte dos exemplos usa apenas a **biblioteca padrão** do Python. Alguns
 - `pyside6` + `qdarkstyle` (interfaces gráficas)
 - `pymysql` (MySQL)
 - `jupyter`/`notebook` (Jupyter Notebook)
-
-> ⚠️ A pasta `.venv/` presente no material é o ambiente virtual usado durante o curso e **não** faz parte do conteúdo didático — pode ser ignorada ou recriada localmente com `python -m venv venv`.
-
 ---
 
 ## 📌 Como usar este README para revisão
